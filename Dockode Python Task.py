@@ -27,8 +27,8 @@ def draw_hexagon(rows, columns):
 
 
 # Getting the user input for number of rows and columns
-rows = int(input('No of rows'))
-columns = int(input('No of columns'))
+rows = int(input('No of rows :'))
+columns = int(input('No of columns :'))
 
 # Calling the function to draw the hexagon
 draw_hexagon(rows, columns)
